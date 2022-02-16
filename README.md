@@ -1,2 +1,3 @@
 # kiwue-core
-Kiwue Core
+Kiwue Server Core
+Version 0.0.1
